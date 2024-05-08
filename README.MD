@@ -16,3 +16,11 @@ If the port of the client and server are different, they couldn't communicate wi
 ![](2.2.4.png)
 
 Now here, both the client and server are on port 8080, and as we can see in the given picture, the server is listening on port 8080 and the client was already on port 8080, so the client could establish a connection and send a message that is recieved by the server, as seen on the picture above.
+
+**abc**
+![](2.3.2.png)
+![](2.3.3.png)
+The output above is achieved by changing the code in client.rs as can be seen in the commit Experiment 2.3
+
+![](2.3.1.png)
+As for this one, this is achieved by changing the code in server.rs as can be seen in the commit Experiment 2.3 as well
